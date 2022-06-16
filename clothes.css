@@ -1,0 +1,383 @@
+body{
+    
+    margin: 0;
+    font-style:initial;
+
+}
+h1{  
+    color:black;
+    margin-top: 0;
+    text-align: center;
+    
+}
+
+.top{
+
+    background-color:#F15412;
+    text-align: center;
+    margin-top: 0;
+    width:auto;
+    height: 500px;
+    padding-top: 50px;
+    
+
+    
+}
+
+
+
+.welcome{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.top_tag{
+    color: #EEEEEE;
+    margin-top: 5px;
+    padding-bottom: 15px;
+}
+
+
+
+.lee_logo{
+
+    position: absolute;
+    top:10rem;
+    left:5rem;
+    height:250px;
+    width:250px;
+    
+
+}
+
+.holister_logo{
+
+    position:absolute;
+    top:10rem;
+    left:18rem;
+    height:250px;
+    width:250px;
+    
+}
+
+.american_apparel_logo{
+
+    position: absolute;
+    top:10rem;
+    left:30rem;
+    height:250px;
+    width:250px;
+}
+
+.gucci_logo{
+
+    position: absolute;
+    top:12rem;
+    left:42rem;
+    height:210px;
+    width:210px;
+}
+
+.nike_logo{
+
+    height: 250px;
+    width:250px;
+    top:11rem;
+    right:18rem;
+    position: absolute;
+}
+
+.rayban_logo{
+
+    height:250px;
+    width:250px;
+    top:10rem;
+    right:5rem;
+    position: absolute;
+}
+
+.northface_logo{
+
+    position: absolute;
+    height:250px;
+    width: 250px;
+    top:21rem;
+    left:20rem;
+}
+
+.levis_logo{
+
+    position: absolute;
+    height: 230px;
+    width:230px;
+    top:22rem;
+    left:35rem;
+}
+
+.killer_logo{
+
+  position: absolute;
+  height:300px;
+  width:300px;
+  top: 20rem;
+  right:18rem;
+
+
+
+}
+
+
+.vector{
+
+    height:10rem;
+    width:auto;
+    margin:0;
+
+}
+
+.mens_shirt{
+
+
+   height:10rem;
+   width:10rem;
+   margin:5px ;
+
+}
+
+.girls_shirt{
+
+    height:175px;
+    width:200px;
+    position:absolute;
+    left:165px;
+
+    
+    
+
+}
+
+.boys_tshirt{
+
+    height:10rem;
+    width:10rem;
+    position:absolute;
+    left:455px;
+    padding-left:70px;
+    
+    
+    
+    
+}
+
+.girls_tshirt{
+
+
+    
+    height:150px;
+    width:125px;
+    position:absolute;
+    left: 370px;
+
+    margin-top: 5px;
+    
+}
+
+.saree{
+
+    height:175px;
+    width: :170px;
+    position:absolute;
+    left:710px;
+
+}
+
+.mens_jeans{
+
+    height:175px;
+    width:150px;
+    position:absolute;
+    left:815px;
+}
+
+.girls_jeans{
+
+    height:200px;
+    width: 170px;
+    position:absolute;
+    left:915px;
+}
+
+.baby_girl{
+
+    height:175px;
+    width:160px;
+    position:absolute;
+    left:1065px;
+}
+
+.old_man{
+
+    height:180px;
+    width:180px;
+    position:absolute;
+    right:2px;
+}
+
+.vector-text{
+
+    height:100px;
+    width:auto;
+    
+
+}
+
+h4{
+   display:inline;
+   margin-left: 50px;
+   margin-right: 50px;
+   font-style: italic;
+   font-weight: 200px;
+   font-size:medium;
+}
+
+
+.saree_text{
+
+    margin-left:5px 
+    ;
+}
+
+.m_jeans_text{
+
+    margin:5px;
+}
+
+.g_jeans_text{
+
+    margin-left:25px;
+}
+
+.baby_text{
+
+    margin-left:10px;
+}
+
+.old_man_text{
+    font-size:12px;
+    margin-left:1px;
+}
+
+.discount_poster{
+    background-color: black;
+}
+.details{
+
+    width:50%;
+    margin:50px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+    
+    
+    
+}
+.mens_shirt_details{
+
+          width:75%;
+
+
+    
+}
+
+.mens_details{
+
+    
+    width:50%;
+    
+}
+
+.girls_shirt_details{
+    
+    margin-top: 20px;
+    width:60%;
+
+}
+
+.baby_boy_cloth_details{
+
+    
+    width:50%;
+
+}
+
+.baby_cloth_model{
+
+    width:75%;
+}
+.saree_model{
+
+
+    width:50%;
+}
+
+
+.contact-me{
+
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+.btn {
+    text-align: center;
+    margin:50px auto 100px auto ;
+    width: 50%;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999A);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999A);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999A);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999A);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999A);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family:'Montserrat',sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }  
+
+.bottom-container{
+    text-align: center;
+    padding-top: 50px;
+    background-color: #34B3F1;
+    height:200px;
+    width:auto ;
+
+}
+
+
+.footer-link{
+    margin: 10px;
+}
+
+a{
+    color:#11999A;
+    font-family:'Montserrat',sans-serif ;
+    margin :10px 20px;
+    text-decoration:none ;
+}
+
+a:hover{
+    color: #EAF6F6 ;
+}
