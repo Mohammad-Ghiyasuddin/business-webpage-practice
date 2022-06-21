@@ -125,147 +125,49 @@ h1{
 
 
 }
+.discount_poster{
+    height:auto;
+    width:100%;
+}
 
 
 .vector{
 
-    height:10rem;
-    width:auto;
-    margin:0;
-
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center ;
 }
 
-.mens_shirt{
+.vector img{
 
-
-   height:10rem;
-   width:10rem;
-   margin:5px ;
-
-}
-
-.girls_shirt{
-
-    height:175px;
-    width:200px;
-    position:absolute;
-    left:165px;
-
-    
-    
-
-}
-
-.boys_tshirt{
-
-    height:10rem;
-    width:10rem;
-    position:absolute;
-    left:455px;
-    padding-left:70px;
-    
-    
-    
-    
-}
-
-.girls_tshirt{
-
-
-    
-    height:150px;
-    width:125px;
-    position:absolute;
-    left: 370px;
-
-    margin-top: 5px;
-    
-}
-
-.saree{
-
-    height:175px;
-    width:170px;
-    position:absolute;
-    left:710px;
-
-}
-
-.mens_jeans{
-
-    height:175px;
     width:150px;
-    position:absolute;
-    left:815px;
+    height:150px;
+    margin:5px;
+    transition: all ls;
+}
+.vector img:hover{
+    transform:scale(1.1);
 }
 
-.girls_jeans{
-
-    height:200px;
-    width: 170px;
-    position:absolute;
-    left:915px;
-}
-
-.baby_girl{
-
-    height:175px;
-    width:160px;
-    position:absolute;
-    left:1065px;
-}
-
-.old_man{
-
-    height:180px;
-    width:180px;
-    position:absolute;
-    right:2px;
-}
 
 .vector-text{
 
-    height:100px;
-    width:auto;
-    
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+font-style: italic;
+margin-left: 50px;
 
 }
+
+
+
+
 
 h4{
-   display:inline;
-   margin-left: 50px;
-   margin-right: 50px;
-   font-style: italic;
-   font-weight: 200;
-   font-size:medium;
+   margin: auto 40px auto 40px;
 }
 
-
-.saree_text{
-
-    margin-left:5px 
-    ;
-}
-
-.m_jeans_text{
-
-    margin:5px;
-}
-
-.g_jeans_text{
-
-    margin-left:25px;
-}
-
-.baby_text{
-
-    margin-left:10px;
-}
-
-.old_man_text{
-    font-size:12px;
-    margin-left:1px;
-}
 
 .discount_poster{
     background-color: black;
